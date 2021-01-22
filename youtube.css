@@ -1,0 +1,39 @@
+#aright{
+    position: absolute;
+    top:0%;
+    right:0%;
+}
+#bright{
+    position: absolute;
+    top:0%;
+    right:10%;
+}
+#cright{
+    position: absolute;
+    top:0%;
+    right:20%;
+}
+#aleft{
+    position: absolute;
+    bottom:0%;
+    left:0%;
+    font-size: 30px;
+}
+#cleft{
+    position: absolute;
+    bottom:0%;
+    right:0%;
+    font-size: 30px;
+}
+#bleft{
+    position: absolute;
+    bottom:0%;
+    left:20%;
+    font-size: 30px;
+}
+#dleft{
+    position: absolute;
+    bottom:0%;
+    right:20%;
+    font-size: 30px;
+}
